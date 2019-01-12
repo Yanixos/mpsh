@@ -12,7 +12,7 @@ Les fichiers :
 Fonctionalités :
 
 Affichage:
-            Une fois le code exécuté, l'invite du shell s'afficherait sous le format suivant: <nomutilisateur@mpsh: rép_curr>
+            Une fois le code exécuté, l'invite du shell s'afficherait sous le format suivant: < nomutilisateur@mpsh: rép_curr >
 
 Traitement de l'entrée:
 
